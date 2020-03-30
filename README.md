@@ -33,6 +33,7 @@ Points to be noted:
 ## Contribution
 * C++
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/C%2B%2B/BinarySearch.cpp)
+    * [BubbleSort](https://github.com/DebadityaPal/algorithms/blob/master/C%2B%2B/BubbleSort.cpp)
 * Java
 * Python
 * Python3
