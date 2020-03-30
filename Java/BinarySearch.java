@@ -16,6 +16,11 @@ class Main {
 }
 
 class Algorithms { 
+    
+    //Binary Search Algorithm
+    //Works on sorted Arrays only
+    //Time Complexity - O(log(n))
+    
     //arr[] -> Array to be searched
     //l -> Index of the array from which the search will start
     //r -> Index of the array at which the search will end
