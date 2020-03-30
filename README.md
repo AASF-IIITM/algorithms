@@ -28,6 +28,7 @@ You may contribute with any of the following:-
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/C%2B%2B/BinarySearch.cpp)
     * [SieveOfEratosthenes](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/SieveofEratosthenes.cpp)
     * [MergeSort](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/MergeSort.cpp)
+    * [CatalanNumbers/DyckPaths](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CatalanNumber:DyckPath.cpp)
 * Java
 * Python
 * Python3
