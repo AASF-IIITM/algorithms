@@ -27,6 +27,7 @@ You may contribute with any of the following:-
 * C++
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/C%2B%2B/BinarySearch.cpp)
 * Java
+    * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
 * Python
 * Python3
 * Javascript
