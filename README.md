@@ -37,6 +37,7 @@ Points to be noted:
     * [SieveOfEratosthenes](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/SieveofEratosthenes.cpp)
     * [MergeSort](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/MergeSort.cpp)
     * [CatalanNumbers/DyckPaths](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CatalanNumber:DyckPath.cpp)
+    * [Finding kth Smallest Element in Array(https://github.com/devk232/algorithms/blob/master/C%2B%2B/FInding%20kth%20smallest%20element%20of%20array.cpp)
 * Java
 * Python
 * Python3
