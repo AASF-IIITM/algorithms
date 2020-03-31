@@ -1,5 +1,5 @@
 class Main {
-    
+    //Added Comments
     //main() to check the Algorithm
     public static void main(String args[]) 
     { 
