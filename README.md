@@ -40,6 +40,7 @@ Points to be noted:
     * [Finding kth Smallest Element in Array](https://github.com/devk232/algorithms/blob/master/C%2B%2B/FInding%20kth%20smallest%20element%20of%20array.cpp) 
     * [InsertionSort](https://github.com/devk232/algorithms/blob/master/C%2B%2B/Insertion%20Sort.cpp)
     * [JumpSearch](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/JumpSearch.cpp)
+    * [SelectionSort](https://github.com/savi-1311/algorithms/blob/master/C%2B%2B/SelectionSort.cpp)
 * Java
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
 * Python
