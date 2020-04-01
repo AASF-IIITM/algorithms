@@ -39,7 +39,9 @@ Points to be noted:
     * [CatalanNumbers/DyckPaths](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CatalanNumber:DyckPath.cpp)
     * [Finding kth Smallest Element in Array](https://github.com/devk232/algorithms/blob/master/C%2B%2B/FInding%20kth%20smallest%20element%20of%20array.cpp) 
     * [InsertionSort](https://github.com/devk232/algorithms/blob/master/C%2B%2B/Insertion%20Sort.cpp)
+    * [JumpSearch](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/JumpSearch.cpp)
 * Java
+    * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
 * Python
 * Python3
 * Javascript
