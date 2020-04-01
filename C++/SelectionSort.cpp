@@ -5,7 +5,7 @@ void selectionSort(int arr[],int n)
 {
   for(int i=0;i<n-1;i++) // checking each and every element as boundary element
   {
-  	for(int j=i+1;j<n;j++) //travering the sub-array for any smaller element
+  	for(int j=i+1;j<n;j++) //traversing the sub-array for any smaller element
   	{
   		if(arr[j]<arr[i]) //swapping the elemnts if the subarray element is smaller than boundary element
   		{
