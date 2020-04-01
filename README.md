@@ -37,6 +37,7 @@ Points to be noted:
     * [SieveOfEratosthenes](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/SieveofEratosthenes.cpp)
     * [MergeSort](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/MergeSort.cpp)
     * [CatalanNumbers/DyckPaths](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CatalanNumber:DyckPath.cpp)
+    * [JumpSearch](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/JumpSearch.cpp)
 * Java
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
 * Python
