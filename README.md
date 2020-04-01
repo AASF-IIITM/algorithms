@@ -38,6 +38,7 @@ Points to be noted:
     * [MergeSort](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/MergeSort.cpp)
     * [CatalanNumbers/DyckPaths](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CatalanNumber:DyckPath.cpp)
 * Java
+    * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
 * Python
 * Python3
 * Javascript
