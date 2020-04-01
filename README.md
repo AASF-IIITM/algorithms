@@ -26,6 +26,7 @@ You may contribute with any of the following:-
 ## Contribution
 * C++
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/C%2B%2B/BinarySearch.cpp)
+    * [SelectionSort](https://github.com/savi-1311/algorithms/blob/master/C%2B%2B/SelectionSort.cpp)
 * Java
 * Python
 * Python3
