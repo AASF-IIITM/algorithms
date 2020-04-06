@@ -48,8 +48,8 @@ Points to be noted:
 * Python
 * Python3
 * Javascript
-    * [BubbleSort] (https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/BubbleSort.js)
-    * [InsertionSort] (https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/InsertionSort.js)
+    * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/BubbleSort.js)
+    * [InsertionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/InsertionSort.js)
 * Go
 * Swift
 * C
