@@ -47,7 +47,12 @@ Points to be noted:
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
 * Python
 * Python3
+    * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/BubbleSort.py)
+    * [SelectionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/SelectionSort.py)
 * Javascript
+    * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/BubbleSort.js)
+    * [InsertionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/InsertionSort.js)
+    * [SelectionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/SelectionSort.js)
 * Go
 * Swift
 * C
