@@ -10,6 +10,13 @@ First fork the repository and then clone it using:
 ```bash
 git clone git@github.com:your-username/algorithms.git
 ```
+or 
+
+```bash
+git clone https://github.com/your-username/algorithms.git
+```
+
+
 You may contribute with any of the following:-
 * Implement an algorithm which is not present in a particular language's folder.
 * Optimizing or improving an existing algorithm.
