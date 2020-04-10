@@ -38,29 +38,30 @@ Points to be noted:
 
 ## Contribution
 
-- C++
-  - [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/C%2B%2B/BinarySearch.cpp)
-  - [SelectionSort](https://github.com/savi-1311/algorithms/blob/master/C%2B%2B/SelectionSort.cpp)
-  - [BubbleSort](https://github.com/DebadityaPal/algorithms/blob/master/C%2B%2B/BubbleSort.cpp)
-  - [SieveOfEratosthenes](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/SieveofEratosthenes.cpp)
-  - [MergeSort](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/MergeSort.cpp)
-  - [CatalanNumbers/DyckPaths](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CatalanNumber:DyckPath.cpp)
-  - [FindingkthSmallestElementInArray](https://github.com/devk232/algorithms/blob/master/C%2B%2B/FInding%20kth%20smallest%20element%20of%20array.cpp)
-  - [InsertionSort](https://github.com/devk232/algorithms/blob/master/C%2B%2B/Insertion%20Sort.cpp)
-  - [JumpSearch](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/JumpSearch.cpp)
-  - [Newton'sSquareRoot algorithm](https://github.com/devk232/algorithms/blob/master/C%2B%2B/Newton's%20square%20root%20algorithm.cpp)
-  - [ShellSort](https://github.com/savi-1311/algorithms/blob/master/C%2B%2B/ShellSort.cpp)
-  - [BreadthFirstSearch](https://github.com/devk232/algorithms/blob/master/C%2B%2B/BreadthFirstSearch.cpp)
-- Java
-  - [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
-- Python
-- Python3
-  - [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/BubbleSort.py)
-  - [SelectionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/SelectionSort.py)
-- Javascript
-  - [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/BubbleSort.js)
-  - [InsertionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/InsertionSort.js)
-  - [SelectionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/SelectionSort.js)
-- Go
-- Swift
-- C
+* C++
+    * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/C%2B%2B/BinarySearch.cpp)
+    * [SelectionSort](https://github.com/savi-1311/algorithms/blob/master/C%2B%2B/SelectionSort.cpp)
+    * [BubbleSort](https://github.com/DebadityaPal/algorithms/blob/master/C%2B%2B/BubbleSort.cpp)
+    * [SieveOfEratosthenes](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/SieveofEratosthenes.cpp)
+    * [MergeSort](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/MergeSort.cpp)
+    * [CatalanNumbers/DyckPaths](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CatalanNumber:DyckPath.cpp)
+    * [Finding kth Smallest Element in Array](https://github.com/devk232/algorithms/blob/master/C%2B%2B/FInding%20kth%20smallest%20element%20of%20array.cpp) 
+    * [InsertionSort](https://github.com/devk232/algorithms/blob/master/C%2B%2B/Insertion%20Sort.cpp)
+    * [JumpSearch](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/JumpSearch.cpp)
+    * [Newton's square root algorithm](https://github.com/devk232/algorithms/blob/master/C%2B%2B/Newton's%20square%20root%20algorithm.cpp)
+    * [ShellSort](https://github.com/savi-1311/algorithms/blob/master/C%2B%2B/ShellSort.cpp)
+* Java
+    * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
+* Python
+* Python3
+    * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/BubbleSort.py)
+    * [SelectionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/SelectionSort.py)
+* Javascript
+    * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/BubbleSort.js)
+    * [InsertionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/InsertionSort.js)
+    * [SelectionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/SelectionSort.js)
+    * [MergeSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/MergeSort.js)
+* Go
+* Swift
+* C
+
