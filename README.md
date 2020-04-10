@@ -53,6 +53,7 @@ Points to be noted:
     * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/InsertionSort.js)
     * [SelectionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/SelectionSort.js)
+    * [MergeSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/MergeSort.js)
 * Go
 * Swift
 * C
