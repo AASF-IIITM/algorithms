@@ -56,6 +56,7 @@ Points to be noted:
 * Python3
     * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/SelectionSort.py)
+    * [SieveOfEratosthenes](https://github.com/hs2361/algorithms/blob/master/Python3/SieveOfEratosthenes.py)
 * Javascript
     * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/InsertionSort.js)
