@@ -50,6 +50,7 @@ Points to be noted:
     * [JumpSearch](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/JumpSearch.cpp)
     * [Newton's square root algorithm](https://github.com/devk232/algorithms/blob/master/C%2B%2B/Newton's%20square%20root%20algorithm.cpp)
     * [ShellSort](https://github.com/savi-1311/algorithms/blob/master/C%2B%2B/ShellSort.cpp)
+    * [QuickSort2](https://github.com/tend2infinity/algorithms/blob/master/C%2B%2B/QuickSort2.cpp)
 * Java
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
 * Python
