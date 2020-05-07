@@ -54,6 +54,7 @@ Points to be noted:
     * [ExtraLongFactorial](https://github.com/utkhagni13/algorithms/blob/master/C%2B%2B/Extra%20Long%20Factorial.cpp)
 * Java
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
+    * [BubbleSort](https://github.com/ayush-deotare/algorithms/blob/master/Java/BubbleSort.java)
 * Python
 * Python3
     * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/BubbleSort.py)
