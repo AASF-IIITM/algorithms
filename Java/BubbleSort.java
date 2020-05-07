@@ -53,19 +53,19 @@ class Main {
 	public static void main(String[] args) {
 
 		int size;
-		Scanner scannner = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 
 		System.out.print("Enter the size of the array: ");
-		size = scannner.nextInt();
+		size = scanner.nextInt();
 
 		int[] arr = new int[size];
 
 		for (int i = 0; i < size; i++) {
 			System.out.print("Enter element #" + (i + 1) + ": ");
-			arr[i] = scannner.nextInt();
+			arr[i] = scanner.nextInt();
 		}
 
-		scannner.close();
+		scanner.close();
 
 		System.out.println("Unsorted Array: " + Arrays.toString(arr)); // Representing the unsorted array
 
