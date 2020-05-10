@@ -52,6 +52,7 @@ Points to be noted:
     * [ShellSort](https://github.com/savi-1311/algorithms/blob/master/C%2B%2B/ShellSort.cpp)
     * [QuickSort2](https://github.com/tend2infinity/algorithms/blob/master/C%2B%2B/QuickSort2.cpp)
     * [ExtraLongFactorial](https://github.com/utkhagni13/algorithms/blob/master/C%2B%2B/Extra%20Long%20Factorial.cpp)
+	* [KadaneAlgo](https://github.com/iamakshat01/algorithms/blob/newalgo/C%2B%2B/KadaneAlgo.cpp)
 * Java
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
 * Python
