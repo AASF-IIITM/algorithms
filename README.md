@@ -30,6 +30,8 @@ Points to be noted:
 - Same is the case with Pull Requests. Pull requests have a title and a description. Title has to be short and informative.
 - While the description is not mandatory, you can add a short description of the algorithm, the optimization you performed or the error you fixed.
 
+Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-IIITM/blob/master/CONTRIBUTING.md)
+
 ### Pull Requests
 
 - To get started with your first Pull Request, you may refer this link: https://www.youtube.com/watch?v=rgbCcBNZcdQ
