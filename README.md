@@ -2,6 +2,9 @@
 
 We love pull requests from everyone. This repository is created for you to contribute different algorithms in different languages. There are separate folders for different languages.
 
+## Edit
+Added DNF algorithm in C++
+
 ## Contributor Guide
 
 First fork the repository and then clone it using:
