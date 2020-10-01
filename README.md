@@ -2,9 +2,6 @@
 
 We love pull requests from everyone. This repository is created for you to contribute different algorithms in different languages. There are separate folders for different languages.
 
-## Edit
-Added DNF algorithm in C++
-
 ## Contributor Guide
 
 First fork the repository and then clone it using:
@@ -58,6 +55,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [QuickSort2](https://github.com/tend2infinity/algorithms/blob/master/C%2B%2B/QuickSort2.cpp)
     * [ExtraLongFactorial](https://github.com/utkhagni13/algorithms/blob/master/C%2B%2B/Extra%20Long%20Factorial.cpp)
 	* [KadaneAlgo](https://github.com/iamakshat01/algorithms/blob/newalgo/C%2B%2B/KadaneAlgo.cpp)
+	*  [DutchNationalFlag](https://github.com/thundercipher/algorithms/blob/master/C%2B%2B/DutchNationalFlag.cpp
 * Java
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/ayush-deotare/algorithms/blob/master/Java/BubbleSort.java)
