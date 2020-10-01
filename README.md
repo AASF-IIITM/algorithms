@@ -59,6 +59,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
 * Java
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/ayush-deotare/algorithms/blob/master/Java/BubbleSort.java)
+    * [SieveOfEratosthenes](https://github.com/mohitsoni-dev/algorithms/blob/master/Java/SieveofEratosthenes.java)
 * Python
 * Python3
     * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/BubbleSort.py)
