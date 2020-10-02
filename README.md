@@ -79,4 +79,5 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Stack_Using_Linked_List](https://github.com/SayantanBanerjee16/algorithms/blob/master/C/StackUsingLinkedList.c)
     * [Queue_Using_Linked_List](https://github.com/SayantanBanerjee16/algorithms/blob/master/C/QueueUsingLinkedList.c)
     * [CIrcular_Queue](https://github.com/SayantanBanerjee16/algorithms/blob/master/C/CircularQueue.c)
-
+    * [Stack using array](https://github.com/Sarthak-23/algorithms/blob/master/C/_Stack.cpp)
+    * [Insertion Sort](https://github.com/Sarthak-23/algorithms/blob/master/C/insertionsort.cpp)
