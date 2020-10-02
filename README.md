@@ -42,7 +42,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
 
 * C++
     * [Generalized_Linked_list](https://github.com/SayantanBanerjee16/algorithms/blob/master/C%2B%2B/GeneralizedLinkedlist.cpp)
-    * [Queue_Using_stack](https://github.com/SayantanBanerjee16/algorithms/blob/master/C%2B%2B/QueueUsingStack.cpp)
+    * [Queue_Using_Stack](https://github.com/SayantanBanerjee16/algorithms/blob/master/C%2B%2B/QueueUsingStack.cpp)
+    * [Stack_using_Queue](https://github.com/SayantanBanerjee16/algorithms/blob/master/C%2B%2B/StackUsingQueue.cpp)
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/C%2B%2B/BinarySearch.cpp)
     * [SelectionSort](https://github.com/savi-1311/algorithms/blob/master/C%2B%2B/SelectionSort.cpp)
     * [BubbleSort](https://github.com/DebadityaPal/algorithms/blob/master/C%2B%2B/BubbleSort.cpp)
