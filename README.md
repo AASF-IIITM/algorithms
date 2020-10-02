@@ -75,8 +75,6 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BreadthFirstTraversal](https://github.com/anmol14dev/algorithms/blob/master/Python3/breadthFirstSearch.py)
     * [SubsetBitManipulation](https://github.com/anmol14dev/algorithms/blob/master/Python3/subsetBitManipulation.py)
     * [nCrModuloM](https://github.com/anmol14dev/algorithms/blob/master/Python3/nCr.py)
-    
-    
 * Javascript
     * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/InsertionSort.js)
@@ -89,6 +87,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [DepthFirstSearch](https://github.com/c98s/algorithms/blob/master/Go/depth_first_search.go)
     * [FloydWarshall](https://github.com/palash402/algorithms/blob/master/Go/floyd_warshall.go)
     * [StringSearch](https://github.com/palash402/algorithms/blob/master/Go/string_search.go)
+    * [LinkedList](https://github.com/palash402/algorithms/blob/master/Go/linked_list.go)
 * C
     * [Stack_Using_Linked_List](https://github.com/SayantanBanerjee16/algorithms/blob/master/C/StackUsingLinkedList.c)
     * [Queue_Using_Linked_List](https://github.com/SayantanBanerjee16/algorithms/blob/master/C/QueueUsingLinkedList.c)
