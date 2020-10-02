@@ -73,6 +73,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [DepthFirstTraversal](https://github.com/anmol14dev/algorithms/blob/master/Python3/depthFirstSearch.py)
     * [BreadthFirstTraversal](https://github.com/anmol14dev/algorithms/blob/master/Python3/breadthFirstSearch.py)
     * [SubsetBitManipulation](https://github.com/anmol14dev/algorithms/blob/master/Python3/subsetBitManipulation.py)
+    * [nCrModuloM](https://github.com/anmol14dev/algorithms/blob/master/Python3/nCr.py)
     
     
 * Javascript
