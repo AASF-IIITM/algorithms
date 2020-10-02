@@ -75,6 +75,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [MergeSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/MergeSort.js)
 * Go
     * [Knapsack](https://github.com/c98s/algorithms/blob/master/Go/knapsack.go)
+    * [LinearSearch](https://github.com/c98s/algorithms/blob/master/Go/linear_search.go)
 * Swift
 * C
     * [Stack_Using_Linked_List](https://github.com/SayantanBanerjee16/algorithms/blob/master/C/StackUsingLinkedList.c)
