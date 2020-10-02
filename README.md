@@ -77,6 +77,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Knapsack](https://github.com/c98s/algorithms/blob/master/Go/knapsack.go)
     * [LinearSearch](https://github.com/c98s/algorithms/blob/master/Go/linear_search.go)
     * [BreadthFirstSearch](https://github.com/c98s/algorithms/blob/master/Go/breadth_first_search.go)
+    * [DepthFirstSearch](https://github.com/c98s/algorithms/blob/master/Go/depth_first_search.go)
+
 * C
     * [Stack_Using_Linked_List](https://github.com/SayantanBanerjee16/algorithms/blob/master/C/StackUsingLinkedList.c)
     * [Queue_Using_Linked_List](https://github.com/SayantanBanerjee16/algorithms/blob/master/C/QueueUsingLinkedList.c)
