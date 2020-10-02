@@ -70,6 +70,9 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [SelectionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/SelectionSort.py)
     * [SieveOfEratosthenes](https://github.com/hs2361/algorithms/blob/master/Python3/SieveOfEratosthenes.py)
     * [FractionalKnapsack](https://github.com/Zeph-T/algorithms/blob/other-branch/Python3/FractionalKnapsack.py)
+    * [DepthFirstTraversal](https://github.com/anmol14dev/algorithms/blob/master/Python3/depthFirstSearch.py)
+    
+    
 * Javascript
     * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/JavaScript/InsertionSort.js)
