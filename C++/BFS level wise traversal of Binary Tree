@@ -1,0 +1,91 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+class node
+{
+public:
+    int data;
+    node *left;
+    node *right;
+    node(int d)
+    {
+        data=d;
+        left=NULL;
+        right=NULL;
+    }
+};
+//function to create tree
+node* createTree(int *v)
+{
+    static int i=0;
+    int value=v[i];
+    i++;
+    //if value is -1 then that node will be NULL
+    if(value==-1)
+    {
+        return NULL;
+    }
+    //IF  value is not -1 then create a new node
+    node *root=new node(value);
+    //this will call left tree of node
+    root->left=createTree(v);
+    //this will call right tree of node
+    root->right=createTree(v);
+    return root;
+
+}
+
+//bfs traversal of binary tree
+void bfs(node *root)
+{
+    //just initialized with queue of node*
+    queue<node*>q;
+    q.push(root);
+    //here NULL WILL help in giving new line between two levels of tree
+    q.push(NULL);
+    while(!q.empty())
+    {
+        node *f=q.front();
+        //if we conquer NULL pointer then give a new line
+        if(f==NULL)
+        {
+            cout<<endl;
+            q.pop();
+            // if we q is not empty then all nodes haven't traveled
+            //so to insert new line after that level we again
+            // insert NULL pointer
+            if(!q.empty())
+            {
+                q.push(NULL);
+            }
+        }
+        else
+        {    //if node pointer is not null
+            // then print node data
+            cout<<f->data<<" ";
+            q.pop();
+            //we node have left node then insert it into queue
+            if(f->left)
+            {
+                q.push(f->left);
+            }
+            //if we node have right not then insert it into queue
+            if(f->right)
+            {
+                q.push(f->right);
+            }
+        }
+    }
+}
+
+int main()
+{
+    //input array
+    int v[]={1, 2, 3, -1, -1, -1, 6, 7, -1, -1, 8, -1, -1};
+    node *root;
+    root=createTree(v);
+    //bfs traversal of binary tree with level wise
+    bfs(root);
+
+   return 0;
+}
