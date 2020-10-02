@@ -61,7 +61,9 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [KruskalAlgo](https://github.com/vaibhavvv9/algorithms/blob/master/C%2B%2B/KruskalAlgo.cpp)
     * [DutchNationalFlag](https://github.com/thundercipher/algorithms/blob/master/C%2B%2B/DutchNationalFlag.cpp)
     * [0-1 Knapsack problem using recursion](https://github.com/Ashi-1/algorithms/blob/master/C%2B%2B/0-1%20KnapSack%20problem%20by%20recursion.cpp)
-    * [Next Greater Number](https://github.com/SayantanBanerjee16/algorithms/blob/master/C%2B%2B/NextGreaterNumber.cpp)		
+    * [Next Greater Number](https://github.com/SayantanBanerjee16/algorithms/blob/master/C%2B%2B/NextGreaterNumber.cpp)
+    * [PriorityQueueUsingLinkedList](https://github.com/vineetnilawar/algorithms/blob/master/C%2B%2B/priorityQueueUsingLinkedList.cpp)
+    * [DoublyLinkedList](https://github.com/vineetnilawar/algorithms/blob/master/C%2B%2B/DoublyLinkedList.cpp)
 * Java
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/ayush-deotare/algorithms/blob/master/Java/BubbleSort.java)
