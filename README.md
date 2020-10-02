@@ -70,6 +70,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [SieveOfEratosthenes](https://github.com/hs2361/algorithms/blob/master/Python3/SieveOfEratosthenes.py)
     * [FractionalKnapsack](https://github.com/Zeph-T/algorithms/blob/other-branch/Python3/FractionalKnapsack.py)
     * [DepthFirstTraversal](https://github.com/anmol14dev/algorithms/blob/master/Python3/depthFirstSearch.py)
+    * [BreadthFirstTraversal](https://github.com/anmol14dev/algorithms/blob/master/Python3/breadthFirstSearch.py)
     
     
 * Javascript
