@@ -41,6 +41,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
 ## Contribution
 
 * C++
+    *[Create Diameter of Binary Tree](https://github.com/JustHackto/algorithms/blob/master/C%2B%2B/CreateDiameterofBinaryTRee.cpp)
     * [Generalized_Linked_list](https://github.com/SayantanBanerjee16/algorithms/blob/master/C%2B%2B/GeneralizedLinkedlist.cpp)
     * [Queue_Using_Stack](https://github.com/SayantanBanerjee16/algorithms/blob/master/C%2B%2B/QueueUsingStack.cpp)
     * [Stack_using_Queue](https://github.com/SayantanBanerjee16/algorithms/blob/master/C%2B%2B/StackUsingQueue.cpp)
