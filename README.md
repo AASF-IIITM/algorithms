@@ -55,14 +55,13 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [ShellSort](https://github.com/savi-1311/algorithms/blob/master/C%2B%2B/ShellSort.cpp)
     * [QuickSort2](https://github.com/tend2infinity/algorithms/blob/master/C%2B%2B/QuickSort2.cpp)
     * [ExtraLongFactorial](https://github.com/utkhagni13/algorithms/blob/master/C%2B%2B/Extra%20Long%20Factorial.cpp)
-	* [KadaneAlgo](https://github.com/iamakshat01/algorithms/blob/newalgo/C%2B%2B/KadaneAlgo.cpp)
-	*  [DutchNationalFlag](https://github.com/thundercipher/algorithms/blob/master/C%2B%2B/DutchNationalFlag.cpp)
+    * [KadaneAlgo](https://github.com/iamakshat01/algorithms/blob/newalgo/C%2B%2B/KadaneAlgo.cpp)
+    * [DutchNationalFlag](https://github.com/thundercipher/algorithms/blob/master/C%2B%2B/DutchNationalFlag.cpp)
     * [0-1 Knapsack problem using recursion](https://github.com/Ashi-1/algorithms/blob/master/C%2B%2B/0-1%20KnapSack%20problem%20by%20recursion.cpp)	
 * Java
     * [BinarySearch](https://github.com/manishdangi98/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/ayush-deotare/algorithms/blob/master/Java/BubbleSort.java)
     * [SieveOfEratosthenes](https://github.com/mohitsoni-dev/algorithms/blob/master/Java/SieveofEratosthenes.java)
-* Python
 * Python3
     * [BubbleSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/mohitsoni-dev/algorithms/blob/master/Python3/SelectionSort.py)
@@ -77,7 +76,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Knapsack](https://github.com/c98s/algorithms/blob/master/Go/knapsack.go)
     * [LinearSearch](https://github.com/c98s/algorithms/blob/master/Go/linear_search.go)
     * [BreadthFirstSearch](https://github.com/c98s/algorithms/blob/master/Go/breadth_first_search.go)
-* Swift
+    * [DepthFirstSearch](https://github.com/c98s/algorithms/blob/master/Go/depth_first_search.go)
 * C
     * [Stack_Using_Linked_List](https://github.com/SayantanBanerjee16/algorithms/blob/master/C/StackUsingLinkedList.c)
     * [Queue_Using_Linked_List](https://github.com/SayantanBanerjee16/algorithms/blob/master/C/QueueUsingLinkedList.c)
