@@ -100,6 +100,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Stack_Using_Linked_List](https://github.com/AASF-IIITM/algorithms/blob/master/C/StackUsingLinkedList.c)
     * [Queue_Using_Linked_List](https://github.com/AASF-IIITM/algorithms/blob/master/C/QueueUsingLinkedList.c)
     * [Circular_Queue](https://github.com/AASF-IIITM/algorithms/blob/master/C/CircularQueue.c)
+    * [Reverse_Queue](https://github.com/AASF-IIITM/algorithms/blob/master/C/ReverseQueue.c)
     * [Stack using array](https://github.com/AASF-IIITM/algorithms/blob/master/C/_Stack.cpp)
     * [Insertion Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/insertionsort.cpp)
     * [Circular Linked List with Adjacent Node Interchange](https://github.com/AASF-IIITM/algorithms/blob/master/C/CircularLinkedListAdjacentNodeInterchange.c)
