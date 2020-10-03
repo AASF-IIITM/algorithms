@@ -84,6 +84,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/MergeSort.js)
     * [DepthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/depthFirstSearch.js)
     * [EuclideanAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/euclideanAlgorithm.js)
+    * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/bellmanFord.js)
 * Go
     * [Knapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Go/knapsack.go)
     * [LinearSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linear_search.go)
