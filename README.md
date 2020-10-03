@@ -59,6 +59,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [ExtraLongFactorial](https://github.com/utkhagni13/algorithms/blob/master/C%2B%2B/Extra%20Long%20Factorial.cpp)
     * [KadaneAlgo](https://github.com/iamakshat01/algorithms/blob/newalgo/C%2B%2B/KadaneAlgo.cpp)
     * [KruskalAlgo](https://github.com/vaibhavvv9/algorithms/blob/master/C%2B%2B/KruskalAlgo.cpp)
+    * [Kosaraju](https://github.com/vaibhavvv9/algorithms/blob/master/C%2B%2B/Kosaraju.cpp)
     * [ShortestPathDfs](https://github.com/vaibhavvv9/algorithms/blob/master/C%2B%2B/ShortestPathDfs.cpp)
     * [DutchNationalFlag](https://github.com/thundercipher/algorithms/blob/master/C%2B%2B/DutchNationalFlag.cpp)
     * [0-1 Knapsack problem using recursion](https://github.com/Ashi-1/algorithms/blob/master/C%2B%2B/0-1%20KnapSack%20problem%20by%20recursion.cpp)
