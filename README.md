@@ -30,6 +30,7 @@ You may contribute with any of the following:-
     * [MergeSort](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/MergeSort.cpp)
     * [CatalanNumbers/DyckPaths](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CatalanNumber:DyckPath.cpp)
     * [JumpSearch](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/JumpSearch.cpp)
+    * [CycleDetectionInUndirectedGraph](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CycleDetectionInUndirectedGraph.cpp)
 * Java
 * Python
 * Python3
