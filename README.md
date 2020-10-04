@@ -70,6 +70,13 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [DoublyLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DoublyLinkedList.cpp)
     * [SemiPrimes](https://github.com/AASF-IIITM/algorithms/blob/master/semiprimes.cpp)
     * [armstrong no](https://github.com/harshitsingh85420/algorithms/blob/pull/C%2B%2B/arm.cpp)
+    * [HillClimbing](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Hill%20climbing.cpp)
+    * [DepthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DepthFirstSearch.cpp)
+    * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TowerOfHanoi.cpp)
+    * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/KmpAlgorithm.cpp)
+    * [CycleDetectionInUndirectedGraph](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CycleDetectionInUndirectedGraph.cpp)
+
+
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
@@ -85,6 +92,14 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BreadthFirstTraversal](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/breadthFirstSearch.py)
     * [SubsetBitManipulation](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/subsetBitManipulation.py)
     * [nCrModuloM](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/nCr.py)
+    * [NQueens](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/N%20queen.py)
+    * [WaterJug](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/water%20jug.py)
+    * [PigeonHoleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Pigeonhole.py)
+    * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Dijkstra.py)
+    * [Fuzzy-Logic](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Fuzzy-Logic.py)
+    * [BrickSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BrickSort.py)
+    * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/MergeSort.py)
+
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/InsertionSort.js)
@@ -94,6 +109,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [EuclideanAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/euclideanAlgorithm.js)
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/bellmanFord.js)
     * [FloydWarshall](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/floydWarshall.js)
+    * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/Dijkstra.js)
 * Go
     * [Knapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Go/knapsack.go)
     * [LinearSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linear_search.go)
@@ -112,3 +128,6 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Stack using array](https://github.com/AASF-IIITM/algorithms/blob/master/C/_Stack.cpp)
     * [Insertion Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/insertionsort.cpp)
     * [Circular Linked List with Adjacent Node Interchange](https://github.com/AASF-IIITM/algorithms/blob/master/C/CircularLinkedListAdjacentNodeInterchange.c)
+    * [First Come First Served - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/FirstComeFirstServed.c)
+    * [Shortest Job First - Non Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_NonPreemptive.c)
+
