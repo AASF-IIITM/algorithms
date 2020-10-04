@@ -72,7 +72,9 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [HillClimbing](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Hill%20climbing.cpp)
     * [DepthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DepthFirstSearch.cpp)
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TowerOfHanoi.cpp)
+    * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/KmpAlgorithm.cpp)
     * [CycleDetectionInUndirectedGraph](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CycleDetectionInUndirectedGraph.cpp)
+
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
@@ -125,3 +127,4 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Circular Linked List with Adjacent Node Interchange](https://github.com/AASF-IIITM/algorithms/blob/master/C/CircularLinkedListAdjacentNodeInterchange.c)
     * [First Come First Served - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/FirstComeFirstServed.c)
     * [Shortest Job First - Non Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_NonPreemptive.c)
+
