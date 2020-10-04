@@ -58,6 +58,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [QuickSort2](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/QuickSort2.cpp)
     * [ExtraLongFactorial](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Extra%20Long%20Factorial.cpp)
     * [KadaneAlgo](https://github.com/AASF-IIITM/algorithms/blob/newalgo/C%2B%2B/KadaneAlgo.cpp)
+    * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Dijkstra.cpp)
     * [KruskalAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/KruskalAlgo.cpp)
     * [Kosaraju](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Kosaraju.cpp)
     * [ShortestPathDfs](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ShortestPathDfs.cpp)
