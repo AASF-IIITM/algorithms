@@ -69,6 +69,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [PriorityQueueUsingLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/priorityQueueUsingLinkedList.cpp)
     * [DoublyLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DoublyLinkedList.cpp)
     * [SemiPrimes](https://github.com/AASF-IIITM/algorithms/blob/master/semiprimes.cpp)
+    * [HillClimbing](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Hill%20climbing.cpp)
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
@@ -82,6 +83,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BreadthFirstTraversal](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/breadthFirstSearch.py)
     * [SubsetBitManipulation](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/subsetBitManipulation.py)
     * [nCrModuloM](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/nCr.py)
+    * [NQueens](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/N%20queen.py)
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/InsertionSort.js)
