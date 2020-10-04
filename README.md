@@ -85,6 +85,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [nCrModuloM](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/nCr.py)
     * [NQueens](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/N%20queen.py)
     * [WaterJug](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/water%20jug.py)
+    * [Fuzzy-Logic](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Fuzzy-Logic.py)
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/InsertionSort.js)
