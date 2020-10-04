@@ -69,6 +69,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [PriorityQueueUsingLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/priorityQueueUsingLinkedList.cpp)
     * [DoublyLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DoublyLinkedList.cpp)
     * [SemiPrimes](https://github.com/AASF-IIITM/algorithms/blob/master/semiprimes.cpp)
+    * [armstrong no](https://github.com/harshitsingh85420/algorithms/blob/pull/C%2B%2B/arm.cpp)
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
