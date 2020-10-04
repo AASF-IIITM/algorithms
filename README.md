@@ -121,5 +121,6 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Stack using array](https://github.com/AASF-IIITM/algorithms/blob/master/C/_Stack.cpp)
     * [Insertion Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/insertionsort.cpp)
     * [Circular Linked List with Adjacent Node Interchange](https://github.com/AASF-IIITM/algorithms/blob/master/C/CircularLinkedListAdjacentNodeInterchange.c)
+    * [First Come First Served - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/FirstComeFirstServed.c)
 
     
