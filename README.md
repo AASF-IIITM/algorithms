@@ -92,6 +92,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [PigeonHoleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Pigeonhole.py)
     * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Dijkstra.py)
     * [Fuzzy-Logic](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Fuzzy-Logic.py)
+    * [BrickSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BrickSort.py)
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/MergeSort.py)
 
 * Javascript
@@ -123,5 +124,4 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Insertion Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/insertionsort.cpp)
     * [Circular Linked List with Adjacent Node Interchange](https://github.com/AASF-IIITM/algorithms/blob/master/C/CircularLinkedListAdjacentNodeInterchange.c)
     * [First Come First Served - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/FirstComeFirstServed.c)
-    
 
