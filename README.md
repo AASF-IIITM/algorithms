@@ -70,6 +70,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [DoublyLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DoublyLinkedList.cpp)
     * [SemiPrimes](https://github.com/AASF-IIITM/algorithms/blob/master/semiprimes.cpp)
     * [HillClimbing](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Hill%20climbing.cpp)
+    * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TowerOfHanoi.cpp)
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
@@ -112,3 +113,4 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Stack using array](https://github.com/AASF-IIITM/algorithms/blob/master/C/_Stack.cpp)
     * [Insertion Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/insertionsort.cpp)
     * [Circular Linked List with Adjacent Node Interchange](https://github.com/AASF-IIITM/algorithms/blob/master/C/CircularLinkedListAdjacentNodeInterchange.c)
+    
