@@ -58,7 +58,11 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [QuickSort2](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/QuickSort2.cpp)
     * [ExtraLongFactorial](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Extra%20Long%20Factorial.cpp)
     * [KadaneAlgo](https://github.com/AASF-IIITM/algorithms/blob/newalgo/C%2B%2B/KadaneAlgo.cpp)
+    * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Dijkstra.cpp)
     * [KruskalAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/KruskalAlgo.cpp)
+    * [Kosaraju](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Kosaraju.cpp)
+    * [TopoSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TopoSort.cpp)
+    * [ShortestPathDfs](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ShortestPathDfs.cpp)
     * [DutchNationalFlag](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DutchNationalFlag.cpp)
     * [0-1 Knapsack problem using recursion](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/0-1%20KnapSack%20problem%20by%20recursion.cpp)
     * [Next Greater Number](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/NextGreaterNumber.cpp)
@@ -66,10 +70,13 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [DoublyLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DoublyLinkedList.cpp)
     * [SemiPrimes](https://github.com/AASF-IIITM/algorithms/blob/master/semiprimes.cpp)
     * [HillClimbing](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Hill%20climbing.cpp)
+    * [DepthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DepthFirstSearch.cpp)
+    * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TowerOfHanoi.cpp)
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
     * [SieveOfEratosthenes](https://github.com/AASF-IIITM/algorithms/blob/master/Java/SieveofEratosthenes.java)
+    * [SELECTION SORT](https://github.com/harshitsingh85420/algorithms/blob/pull/Java/selec.java)
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/SelectionSort.py)
@@ -82,6 +89,9 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [NQueens](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/N%20queen.py)
     * [WaterJug](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/water%20jug.py)
     * [PigeonHoleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Pigeonhole.py)
+    * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Dijkstra.py)
+    * [Fuzzy-Logic](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Fuzzy-Logic.py)
+
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/InsertionSort.js)
@@ -91,6 +101,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [EuclideanAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/euclideanAlgorithm.js)
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/bellmanFord.js)
     * [FloydWarshall](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/floydWarshall.js)
+    * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/Dijkstra.js)
 * Go
     * [Knapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Go/knapsack.go)
     * [LinearSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linear_search.go)
@@ -109,3 +120,4 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Stack using array](https://github.com/AASF-IIITM/algorithms/blob/master/C/_Stack.cpp)
     * [Insertion Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/insertionsort.cpp)
     * [Circular Linked List with Adjacent Node Interchange](https://github.com/AASF-IIITM/algorithms/blob/master/C/CircularLinkedListAdjacentNodeInterchange.c)
+    
