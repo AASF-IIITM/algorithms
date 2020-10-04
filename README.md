@@ -72,7 +72,6 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [HillClimbing](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Hill%20climbing.cpp)
     * [DepthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DepthFirstSearch.cpp)
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TowerOfHanoi.cpp)
-
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
@@ -89,6 +88,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [nCrModuloM](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/nCr.py)
     * [NQueens](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/N%20queen.py)
     * [WaterJug](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/water%20jug.py)
+    * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Dijkstra.py)
     * [Fuzzy-Logic](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Fuzzy-Logic.py)
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
@@ -99,6 +99,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [EuclideanAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/euclideanAlgorithm.js)
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/bellmanFord.js)
     * [FloydWarshall](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/floydWarshall.js)
+    * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/Dijkstra.js)
 * Go
     * [Knapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Go/knapsack.go)
     * [LinearSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linear_search.go)
