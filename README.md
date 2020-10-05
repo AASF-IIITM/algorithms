@@ -102,6 +102,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/MergeSort.py)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/InsertionSort.py)
     * [ShellSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/ShellSort.py)
+    * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/HeapSort.py)
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
