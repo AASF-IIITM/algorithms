@@ -75,10 +75,12 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TowerOfHanoi.cpp)
     * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/KmpAlgorithm.cpp)
     * [CycleDetectionInUndirectedGraph](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CycleDetectionInUndirectedGraph.cpp)
+    * [WaterJug](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/WaterJug.cpp)
     * [FenwickTree](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/FenwickTree.cpp)
     * [RollingHash](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RollingHash.cpp)
     * [ManacherAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ManacherAlgorithm.cpp)
     * [RabinKarp](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RabinKarp.cpp)
+
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
@@ -101,6 +103,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Fuzzy-Logic](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Fuzzy-Logic.py)
     * [BrickSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BrickSort.py)
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/MergeSort.py)
+    * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/InsertionSort.py)
+    * [ShellSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/ShellSort.py)
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
