@@ -75,6 +75,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TowerOfHanoi.cpp)
     * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/KmpAlgorithm.cpp)
     * [CycleDetectionInUndirectedGraph](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CycleDetectionInUndirectedGraph.cpp)
+    * [FenwickTree](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/FenwickTree.cpp)
+    * [RollingHash](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RollingHash.cpp)
     * [ManacherAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ManacherAlgorithm.cpp)
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
