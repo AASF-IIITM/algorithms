@@ -105,6 +105,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/MergeSort.py)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/InsertionSort.py)
     * [ShellSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/ShellSort.py)
+    * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/TowerOfHanoi.py)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/HeapSort.py)
 
 * Javascript
@@ -117,6 +118,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/bellmanFord.js)
     * [FloydWarshall](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/floydWarshall.js)
     * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/Dijkstra.js)
+    * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/HeapSort.js)
 * Go
     * [Knapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Go/knapsack.go)
     * [LinearSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linear_search.go)
