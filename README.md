@@ -141,4 +141,5 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [First Come First Served - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/FirstComeFirstServed.c)
     * [Shortest Job First - Non Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_NonPreemptive.c)
     * [Shortest Job First - Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_Preemptive.c)
+    * [Quick Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/QuickSort.c)
 
