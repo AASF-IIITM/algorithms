@@ -100,6 +100,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Fuzzy-Logic](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Fuzzy-Logic.py)
     * [BrickSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BrickSort.py)
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/MergeSort.py)
+    * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/InsertionSort.py)
     * [ShellSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/ShellSort.py)
 
 * Javascript
