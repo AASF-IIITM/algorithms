@@ -69,6 +69,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [PriorityQueueUsingLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/priorityQueueUsingLinkedList.cpp)
     * [DoublyLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DoublyLinkedList.cpp)
     * [SemiPrimes](https://github.com/AASF-IIITM/algorithms/blob/master/semiprimes.cpp)
+    * [armstrong no](https://github.com/harshitsingh85420/algorithms/blob/pull/C%2B%2B/arm.cpp)
     * [HillClimbing](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Hill%20climbing.cpp)
     * [DepthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DepthFirstSearch.cpp)
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TowerOfHanoi.cpp)
@@ -76,7 +77,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [CycleDetectionInUndirectedGraph](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CycleDetectionInUndirectedGraph.cpp)
     * [FenwickTree](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/FenwickTree.cpp)
     * [RollingHash](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RollingHash.cpp)
-
+    * [ManacherAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ManacherAlgorithm.cpp)
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
