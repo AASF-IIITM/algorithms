@@ -95,7 +95,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BrickSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BrickSort.py)
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/MergeSort.py)
     * [ShellSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/ShellSort.py)
-
+    * [LegendreConjecture](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Legendre's%20Conjecture.py)
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/InsertionSort.js)
