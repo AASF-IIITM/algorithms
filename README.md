@@ -105,6 +105,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/MergeSort.py)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/InsertionSort.py)
     * [ShellSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/ShellSort.py)
+    * [LegendreConjecture](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Legendre's%20Conjecture.py)
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/TowerOfHanoi.py)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/HeapSort.py)
 
