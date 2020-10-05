@@ -80,7 +80,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [RollingHash](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RollingHash.cpp)
     * [ManacherAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ManacherAlgorithm.cpp)
     * [RabinKarp](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RabinKarp.cpp)
-
+    * [PrefixFunction](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/PrefixFunction.cpp)
+   
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
