@@ -79,6 +79,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [FenwickTree](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/FenwickTree.cpp)
     * [RollingHash](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RollingHash.cpp)
     * [ManacherAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ManacherAlgorithm.cpp)
+    * [RabinKarp](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RabinKarp.cpp)
 
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
@@ -105,6 +106,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/InsertionSort.py)
     * [ShellSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/ShellSort.py)
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/TowerOfHanoi.py)
+    * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/HeapSort.py)
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
@@ -137,4 +139,5 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Circular Linked List with Adjacent Node Interchange](https://github.com/AASF-IIITM/algorithms/blob/master/C/CircularLinkedListAdjacentNodeInterchange.c)
     * [First Come First Served - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/FirstComeFirstServed.c)
     * [Shortest Job First - Non Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_NonPreemptive.c)
+    * [Shortest Job First - Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_Preemptive.c)
 
