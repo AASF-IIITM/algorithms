@@ -91,6 +91,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [PigeonHoleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Pigeonhole.py)
     * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Dijkstra.py)
     * [Fuzzy-Logic](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Fuzzy-Logic.py)
+    * [HangmanCode](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/HangmanCode.py)
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
