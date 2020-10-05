@@ -116,6 +116,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/bellmanFord.js)
     * [FloydWarshall](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/floydWarshall.js)
     * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/Dijkstra.js)
+    * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/HeapSort.js)
 * Go
     * [Knapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Go/knapsack.go)
     * [LinearSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linear_search.go)
