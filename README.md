@@ -144,5 +144,6 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Shortest Job First - Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_Preemptive.c)
     * [Quick Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/QuickSort.c)
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C/TowerOfHanoi.c)
+    * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/C/MergeSort.c)
 
 
