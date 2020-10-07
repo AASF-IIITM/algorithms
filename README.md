@@ -83,8 +83,10 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/HeapSort.cpp)
     * [RabinKarp](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RabinKarp.cpp)
     * [PrefixFunction](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/PrefixFunction.cpp)
+    * [PrimeFactorizationInLogN](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/PrimeFactorizationInLogN.cpp)
+    * [EulersTotientFunction](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/EulersTotientFunction.cpp)
+    * [TrieImplementation](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ImplementTrie.cpp)
     * [Floyd'sCycleFinding](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/FloydCycleFinding.cpp)
-   
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
@@ -93,6 +95,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [doubly linked list](https://github.com/harshitsingh85420/algorithms/blob/pull/Java/doub.java)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/InsertionSort.java)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HeapSort.java)
+    * [Tower Of Hanoi](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Tower%20Of%20Hanoi.java)
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/SelectionSort.py)
@@ -115,6 +118,9 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/TowerOfHanoi.py)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/HeapSort.py)
     * [FibbonacciSearch](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/FibonacciSearch.py)
+    * [RadixSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/RadixSort.py)
+    * [JobSequencing](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/JobSequencing.py)
+
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
@@ -149,8 +155,10 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Shortest Job First - Non Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_NonPreemptive.c)
     * [Shortest Job First - Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_Preemptive.c)
     * [Priority Scheduling - Non Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/PriorityScheduling_NonPreemptive.c)
+    * [Priority Scheduling - Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/PriorityScheduling_Preemptive.c)
     * [Quick Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/QuickSort.c)
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C/TowerOfHanoi.c)
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/C/MergeSort.c)
+
 
 
