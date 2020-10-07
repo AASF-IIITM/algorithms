@@ -96,6 +96,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/InsertionSort.java)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HeapSort.java)
     * [Tower Of Hanoi](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Tower%20Of%20Hanoi.java)
+    * [BreadthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BreadthFirstSearch.java)
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/SelectionSort.py)
