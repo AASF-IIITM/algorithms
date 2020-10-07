@@ -120,6 +120,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [FibbonacciSearch](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/FibonacciSearch.py)
     * [RadixSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/RadixSort.py)
     * [JobSequencing](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/JobSequencing.py)
+    * [TopologicalSorting](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/TopologicalSorting.py)
 
 
 * Javascript
