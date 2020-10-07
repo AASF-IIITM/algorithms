@@ -83,6 +83,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/HeapSort.cpp)
     * [RabinKarp](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RabinKarp.cpp)
     * [PrefixFunction](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/PrefixFunction.cpp)
+    * [Floyd'sCycleFinding](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/FloydCycleFinding.cpp)
    
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
