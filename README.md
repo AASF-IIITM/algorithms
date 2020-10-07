@@ -92,6 +92,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [doubly linked list](https://github.com/harshitsingh85420/algorithms/blob/pull/Java/doub.java)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/InsertionSort.java)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HeapSort.java)
+    * [Tower Of Hanoi](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Tower%20Of%20Hanoi.java)
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/SelectionSort.py)
