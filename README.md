@@ -84,6 +84,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [RabinKarp](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RabinKarp.cpp)
     * [PrefixFunction](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/PrefixFunction.cpp)
     * [PrimeFactorizationInLogN](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/PrimeFactorizationInLogN.cpp)
+    * [EulersTotientFunction](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/EulersTotientFunction.cpp)
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
