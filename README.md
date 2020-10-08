@@ -87,6 +87,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [EulersTotientFunction](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/EulersTotientFunction.cpp)
     * [TrieImplementation](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ImplementTrie.cpp)
     * [Floyd'sCycleFinding](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/FloydCycleFinding.cpp)
+    * [SegmentTree](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SegmentTree.cpp)
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
