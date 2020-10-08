@@ -89,6 +89,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Floyd'sCycleFinding](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/FloydCycleFinding.cpp)
     * [Longest substring without repeatation in a given string](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/longest_substring.cpp)
     * [SegmentTree](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SegmentTree.cpp)
+    * [Z Algorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ZAlgorithm.cpp)
 
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
@@ -167,6 +168,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Quick Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/QuickSort.c)
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C/TowerOfHanoi.c)
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/C/MergeSort.c)
+    
 
 
 
