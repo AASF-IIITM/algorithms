@@ -104,6 +104,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/MergeSort.java)
     * [ShellSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/ShellSort.java)
     * [DepthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DepthFirstSearch.java)
+    * [HuffmanCoding](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HuffmanCoding.java)
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/SelectionSort.py)
