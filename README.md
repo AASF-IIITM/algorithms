@@ -106,6 +106,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [DepthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DepthFirstSearch.java)
     * [HuffmanCoding](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HuffmanCoding.java)
     * [EgyptianFraction](https://github.com/AASF-IIITM/algorithms/blob/master/Java/EgyptianFraction.java)
+    * [TransposeGraph](https://github.com/AASF-IIITM/algorithms/blob/master/Java/TransposeGraph.java)
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/SelectionSort.py)
