@@ -106,6 +106,9 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [DepthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DepthFirstSearch.java)
     * [HuffmanCoding](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HuffmanCoding.java)
     * [EgyptianFraction](https://github.com/AASF-IIITM/algorithms/blob/master/Java/EgyptianFraction.java)
+    * [QuickSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/QuickSort.java)
+    * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Dijkstra.java)
+    
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/SelectionSort.py)
@@ -168,6 +171,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Shortest Job First - Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_Preemptive.c)
     * [Priority Scheduling - Non Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/PriorityScheduling_NonPreemptive.c)
     * [Priority Scheduling - Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/PriorityScheduling_Preemptive.c)
+    * [Round Robin Scheduling - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/RoundRobin.c)
     * [Quick Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/QuickSort.c)
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C/TowerOfHanoi.c)
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/C/MergeSort.c)
