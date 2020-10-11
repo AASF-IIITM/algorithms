@@ -108,6 +108,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [EgyptianFraction](https://github.com/AASF-IIITM/algorithms/blob/master/Java/EgyptianFraction.java)
     * [QuickSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/QuickSort.java)
     * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Dijkstra.java)
+    * [TransposeGraph](https://github.com/AASF-IIITM/algorithms/blob/master/Java/TransposeGraph.java)
     
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
