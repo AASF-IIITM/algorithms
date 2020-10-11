@@ -89,6 +89,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [SELECTION SORT](https://github.com/harshitsingh85420/algorithms/blob/pull/Java/selec.java)
     * [doubly linked list](https://github.com/harshitsingh85420/algorithms/blob/pull/Java/doub.java)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HeapSort.java)
+    * [TopologicalSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/TopologicalSort.java)
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/SelectionSort.py)
