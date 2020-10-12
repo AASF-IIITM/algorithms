@@ -75,12 +75,21 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TowerOfHanoi.cpp)
     * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/KmpAlgorithm.cpp)
     * [CycleDetectionInUndirectedGraph](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/CycleDetectionInUndirectedGraph.cpp)
+    * [ConnectedComponentsInGraphUsingDSU](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ConnectedComponentsInGraphUsingDSU.cpp)
     * [WaterJug](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/WaterJug.cpp)
     * [FenwickTree](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/FenwickTree.cpp)
     * [RollingHash](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RollingHash.cpp)
     * [ManacherAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ManacherAlgorithm.cpp)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/HeapSort.cpp)
     * [RabinKarp](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/RabinKarp.cpp)
+    * [PrefixFunction](https://github.com/lostmartian/algorithms/blob/master/C%2B%2B/PrefixFunction.cpp)
+    * [PrimeFactorizationInLogN](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/PrimeFactorizationInLogN.cpp)
+    * [EulersTotientFunction](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/EulersTotientFunction.cpp)
+    * [TrieImplementation](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ImplementTrie.cpp)
+    * [Floyd'sCycleFinding](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/FloydCycleFinding.cpp)
+    * [Longest substring without repeatation in a given string](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/longest_substring.cpp)
+    * [SegmentTree](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SegmentTree.cpp)
+    * [Z Algorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ZAlgorithm.cpp)
 
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
@@ -90,6 +99,19 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [doubly linked list](https://github.com/harshitsingh85420/algorithms/blob/pull/Java/doub.java)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HeapSort.java)
     * [TopologicalSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/TopologicalSort.java)
+    * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/InsertionSort.java)
+    * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HeapSort.java)
+    * [Tower Of Hanoi](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Tower%20Of%20Hanoi.java)
+    * [BreadthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BreadthFirstSearch.java)
+    * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/MergeSort.java)
+    * [ShellSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/ShellSort.java)
+    * [DepthFirstSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DepthFirstSearch.java)
+    * [HuffmanCoding](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HuffmanCoding.java)
+    * [EgyptianFraction](https://github.com/AASF-IIITM/algorithms/blob/master/Java/EgyptianFraction.java)
+    * [QuickSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/QuickSort.java)
+    * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Dijkstra.java)
+    * [TransposeGraph](https://github.com/AASF-IIITM/algorithms/blob/master/Java/TransposeGraph.java)
+    
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/SelectionSort.py)
@@ -112,6 +134,10 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/TowerOfHanoi.py)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/HeapSort.py)
     * [FibbonacciSearch](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/FibonacciSearch.py)
+    * [RadixSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/RadixSort.py)
+    * [JobSequencing](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/JobSequencing.py)
+    * [TopologicalSorting](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/TopologicalSorting.py)
+
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
@@ -124,6 +150,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [FloydWarshall](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/floydWarshall.js)
     * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/Dijkstra.js)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/HeapSort.js)
+    * [QuickSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/QuickSort.js)
 * Go
     * [Knapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Go/knapsack.go)
     * [LinearSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linear_search.go)
@@ -145,7 +172,13 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [First Come First Served - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/FirstComeFirstServed.c)
     * [Shortest Job First - Non Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_NonPreemptive.c)
     * [Shortest Job First - Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/ShortestJobFirst_Preemptive.c)
+    * [Priority Scheduling - Non Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/PriorityScheduling_NonPreemptive.c)
+    * [Priority Scheduling - Preemptive - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/PriorityScheduling_Preemptive.c)
+    * [Round Robin Scheduling - OS Algo](https://github.com/AASF-IIITM/algorithms/blob/master/C/RoundRobin.c)
     * [Quick Sort](https://github.com/AASF-IIITM/algorithms/blob/master/C/QuickSort.c)
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C/TowerOfHanoi.c)
+    * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/C/MergeSort.c)
+    
+
 
 
