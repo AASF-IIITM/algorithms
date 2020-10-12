@@ -97,6 +97,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [SieveOfEratosthenes](https://github.com/AASF-IIITM/algorithms/blob/master/Java/SieveofEratosthenes.java)
     * [SELECTION SORT](https://github.com/harshitsingh85420/algorithms/blob/pull/Java/selec.java)
     * [doubly linked list](https://github.com/harshitsingh85420/algorithms/blob/pull/Java/doub.java)
+    * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HeapSort.java)
+    * [TopologicalSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/TopologicalSort.java)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/InsertionSort.java)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HeapSort.java)
     * [Tower Of Hanoi](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Tower%20Of%20Hanoi.java)
