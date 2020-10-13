@@ -142,6 +142,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [JobSequencing](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/JobSequencing.py)
     * [TopologicalSorting](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/TopologicalSorting.py)
     * [JumpSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/JumpSeach.py)
+    * [BucketSort](https://github.com/durgadevi123766/algorithms/blob/master/Python3/Bucket%20Sort.py)
 
 
 * Javascript
