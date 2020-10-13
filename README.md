@@ -110,8 +110,11 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [EgyptianFraction](https://github.com/AASF-IIITM/algorithms/blob/master/Java/EgyptianFraction.java)
     * [QuickSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/QuickSort.java)
     * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Dijkstra.java)
+    * [BrickSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BrickSort.java)
     * [TransposeGraph](https://github.com/AASF-IIITM/algorithms/blob/master/Java/TransposeGraph.java)
     * [JumpSearch](https://github.com/mohitmochi12/algorithms/blob/master/Java/JumpSearch.java)
+    * [Bucket Sort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BucketSort.java)
+    * [FractionalKnapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Fractional%20Knapsack.java)
     
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
@@ -138,6 +141,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [RadixSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/RadixSort.py)
     * [JobSequencing](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/JobSequencing.py)
     * [TopologicalSorting](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/TopologicalSorting.py)
+    * [JumpSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/JumpSeach.py)
 
 
 * Javascript
