@@ -112,11 +112,10 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Dijkstra.java)
     * [BrickSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BrickSort.java)
     * [TransposeGraph](https://github.com/AASF-IIITM/algorithms/blob/master/Java/TransposeGraph.java)
+    * [JumpSearch](https://github.com/mohitmochi12/algorithms/blob/master/Java/JumpSearch.java)
     * [Bucket Sort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BucketSort.java)
     * [FractionalKnapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Fractional%20Knapsack.java)
     
-
-
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/SelectionSort.py)
