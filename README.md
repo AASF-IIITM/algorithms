@@ -90,6 +90,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Longest substring without repeatation in a given string](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/longest_substring.cpp)
     * [SegmentTree](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SegmentTree.cpp)
     * [Z Algorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ZAlgorithm.cpp)
+    * [SubsetBitManipulation](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SubsetBitManipulation.cpp)
 
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
