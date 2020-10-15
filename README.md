@@ -89,6 +89,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Longest substring without repeatation in a given string](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/longest_substring.cpp)
     * [SegmentTree](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SegmentTree.cpp)
     * [Z Algorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ZAlgorithm.cpp)
+    * [SubsetBitManipulation](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SubsetBitManipulation.cpp)
     * [InfixtoPostfix](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/InfixToPostfix.cpp)
 
 * Java
@@ -147,7 +148,6 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BucketSort](https://github.com/durgadevi123766/algorithms/blob/master/Python3/Bucket%20Sort.py)
     * [Newton'sSquareRootAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Newton'ssquarerootalgorithm.py)
 
-
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/InsertionSort.js)
@@ -160,6 +160,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/Dijkstra.js)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/HeapSort.js)
     * [QuickSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/QuickSort.js)
+
 * Go
     * [Knapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Go/knapsack.go)
     * [LinearSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linear_search.go)
@@ -170,6 +171,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [LinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linked_list.go)
     * [LevenshteinDistance](https://github.com/AASF-IIITM/algorithms/blob/master/Go/levenshtein_distance.go)
     * [GreatestCommonDivisor](https://github.com/AASF-IIITM/algorithms/blob/master/Go/gcd.go)
+
 * C
     * [Stack_Using_Linked_List](https://github.com/AASF-IIITM/algorithms/blob/master/C/StackUsingLinkedList.c)
     * [Queue_Using_Linked_List](https://github.com/AASF-IIITM/algorithms/blob/master/C/QueueUsingLinkedList.c)
@@ -187,7 +189,3 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [QuickSort](https://github.com/AASF-IIITM/algorithms/blob/master/C/QuickSort.c)
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C/TowerOfHanoi.c)
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/C/MergeSort.c)
-    
-
-
-
