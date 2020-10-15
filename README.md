@@ -90,6 +90,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [SegmentTree](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SegmentTree.cpp)
     * [Z Algorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ZAlgorithm.cpp)
     * [InfixtoPostfix](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/InfixToPostfix.cpp)
+    * [Quickhull Algo for Convex Hull](https://github.com/ashksin121/algorithms/blob/master/C%2B%2B/ConvexHull.cpp)
 
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
