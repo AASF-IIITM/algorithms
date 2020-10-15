@@ -114,6 +114,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [TransposeGraph](https://github.com/AASF-IIITM/algorithms/blob/master/Java/TransposeGraph.java)
     * [Bucket Sort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BucketSort.java)
     * [FractionalKnapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Fractional%20Knapsack.java)
+    * [InfixtoPostfix](https://github.com/AASF-IIITM/algorithms/blob/master/Java/InfixtoPostfix.java)
     
 
 
