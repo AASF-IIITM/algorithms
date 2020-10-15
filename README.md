@@ -64,7 +64,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [TopoSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TopoSort.cpp)
     * [ShortestPathDfs](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ShortestPathDfs.cpp)
     * [DutchNationalFlag](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DutchNationalFlag.cpp)
-    * [0-1KnapsackRecursion](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/0-1%20KnapSack%20problem%20by%20recursion.cpp)
+    * [0-1Knapsack](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/0-1%20KnapSack%20problem%20by%20recursion.cpp)
     * [NextGreaterNumber](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/NextGreaterNumber.cpp)
     * [PriorityQueueUsingLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/priorityQueueUsingLinkedList.cpp)
     * [DoublyLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DoublyLinkedList.cpp)
@@ -89,6 +89,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [LongestSubstringWithoutRepeatation](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/longest_substring.cpp)
     * [SegmentTree](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SegmentTree.cpp)
     * [Z Algorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ZAlgorithm.cpp)
+    * [SubsetBitManipulation](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SubsetBitManipulation.cpp)
     * [InfixtoPostfix](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/InfixToPostfix.cpp)
     * [QuickhullAlgoforConvexHull](https://github.com/ashksin121/algorithms/blob/master/C%2B%2B/ConvexHull.cpp)
 
@@ -116,6 +117,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [JumpSearch](https://github.com/mohitmochi12/algorithms/blob/master/Java/JumpSearch.java)
     * [Bucket Sort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BucketSort.java)
     * [FractionalKnapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Fractional%20Knapsack.java)
+    * [InfixtoPostfix](https://github.com/AASF-IIITM/algorithms/blob/master/Java/InfixtoPostfix.java)
     * [NewtonsSquareRootAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Newton's%20square%20root%20algorithm.java)
     * [FibonacciSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FibonacciSearch.java)
     
@@ -147,7 +149,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [JumpSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/JumpSeach.py)
     * [BucketSort](https://github.com/durgadevi123766/algorithms/blob/master/Python3/Bucket%20Sort.py)
     * [Newton'sSquareRootAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Newton'ssquarerootalgorithm.py)
-    
+
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/InsertionSort.js)
@@ -160,7 +162,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/Dijkstra.js)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/HeapSort.js)
     * [QuickSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/QuickSort.js)
-    
+
 * Go
     * [Knapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Go/knapsack.go)
     * [LinearSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linear_search.go)
@@ -171,7 +173,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [LinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linked_list.go)
     * [LevenshteinDistance](https://github.com/AASF-IIITM/algorithms/blob/master/Go/levenshtein_distance.go)
     * [GreatestCommonDivisor](https://github.com/AASF-IIITM/algorithms/blob/master/Go/gcd.go)
-    
+
 * C
     * [StackUsingLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C/StackUsingLinkedList.c)
     * [QueueUsingLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C/QueueUsingLinkedList.c)
