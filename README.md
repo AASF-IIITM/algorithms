@@ -91,6 +91,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Z Algorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ZAlgorithm.cpp)
     * [SubsetBitManipulation](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SubsetBitManipulation.cpp)
     * [InfixtoPostfix](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/InfixToPostfix.cpp)
+    * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BucketSort.cpp)
 
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
