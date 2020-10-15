@@ -116,6 +116,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [JumpSearch](https://github.com/mohitmochi12/algorithms/blob/master/Java/JumpSearch.java)
     * [Bucket Sort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BucketSort.java)
     * [FractionalKnapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Fractional%20Knapsack.java)
+    * [InfixtoPostfix](https://github.com/AASF-IIITM/algorithms/blob/master/Java/InfixtoPostfix.java)
     * [NewtonsSquareRootAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Newton's%20square%20root%20algorithm.java)
     * [FibonacciSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FibonacciSearch.java)
     
