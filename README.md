@@ -122,11 +122,10 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [NewtonsSquareRootAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Newton's%20square%20root%20algorithm.java)
     * [FibonacciSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FibonacciSearch.java)
     * [RadixSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/RadixSort.java)
-
     * [FenwickTree](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FenwickTree.java)
     * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/Java/KmpAlgorithm.java)
->>
-    
+    * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BellmanFord.java)
+
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/SelectionSort.py)
