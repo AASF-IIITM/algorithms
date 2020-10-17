@@ -91,6 +91,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Z Algorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ZAlgorithm.cpp)
     * [SubsetBitManipulation](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SubsetBitManipulation.cpp)
     * [InfixtoPostfix](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/InfixToPostfix.cpp)
+    * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BucketSort.cpp)
     * [QuickhullAlgoforConvexHull](https://github.com/ashksin121/algorithms/blob/master/C%2B%2B/ConvexHull.cpp)
 
 * Java
@@ -121,6 +122,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [NewtonsSquareRootAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Newton's%20square%20root%20algorithm.java)
     * [FibonacciSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FibonacciSearch.java)
     * [FenwickTree](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FenwickTree.java)
+    * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/Java/KmpAlgorithm.java)
     
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
