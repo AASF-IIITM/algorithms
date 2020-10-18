@@ -93,6 +93,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [InfixtoPostfix](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/InfixToPostfix.cpp)
     * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BucketSort.cpp)
     * [QuickhullAlgoforConvexHull](https://github.com/ashksin121/algorithms/blob/master/C%2B%2B/ConvexHull.cpp)
+    * [DisjointSetUnion](https://github.com/cjindal013/algorithms/blob/master/C%2B%2B/DSU.cpp)
 
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
