@@ -93,10 +93,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [InfixtoPostfix](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/InfixToPostfix.cpp)
     * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BucketSort.cpp)
     * [QuickhullAlgoforConvexHull](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ConvexHull.cpp)
-
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DSU.cpp)
     * [BinaryExponentiation](https://github.com/pranjali-99/algorithms/blob/work-3/C%2B%2B/BinaryExponentiation.cpp)
-
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DisjointSetUnion.cpp)
     * [HamiltonianPath](https://github.com/cjindal013/algorithms/blob/work/C%2B%2B/HamiltonianPath.cpp)
     * [LongestIncreasingSubsequence](https://github.com/AASF-IIITM/algorithms/blob/work/C%2B%2B/LongestIncreasingSubsequence.cpp)
@@ -134,8 +132,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/Java/KmpAlgorithm.java)
     * [RabinKarp](https://github.com/AASF-IIITM/algorithms/blob/master/Java/RabinKarp.java)
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BellmanFord.java)
-    * [Kosaraju]()https://github.com/AASF-IIITM/algorithms/blob/master/Java/Kosaraju.java)
-
+    * [Kosaraju](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Kosaraju.java)
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DisjointSetUnion.java)
 
 * Python3
@@ -167,9 +164,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Bucket%20Sort.py)
     * [Newton'sSquareRootAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Newton'ssquarerootalgorithm.py)
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BellmanFord.py)
-
     * [BinaryExponentiation](https://github.com/pranjali-99/algorithms/blob/work-4/Python3/BinaryExponentiation.py)
-=======
     * [LongestIncreasingSubsequence](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/LongestIncreasingSubsequence.py)
     * [FenwickTree](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FenwickTree.py)
 
