@@ -156,6 +156,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Bucket%20Sort.py)
     * [Newton'sSquareRootAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Newton'ssquarerootalgorithm.py)
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BellmanFord.py)
+    * [LongestIncreasingSubsequence](https://github.com/pranjali-99/algorithms/blob/master/Python3/LongestIncreasingSubsequence.py)
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
