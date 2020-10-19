@@ -123,6 +123,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [FibonacciSearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FibonacciSearch.java)
     * [FenwickTree](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FenwickTree.java)
     * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/Java/KmpAlgorithm.java)
+    * [RabinKarp](https://github.com/AASF-IIITM/algorithms/blob/master/Java/RabinKarp.java)
     
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
