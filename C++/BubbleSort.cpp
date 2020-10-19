@@ -8,7 +8,8 @@ void bubbleSort(int arr[], int n)
 {  
     int i, j;  
     for (i = 0; i < n-1; i++)      
-      
+    {
+	int flag=0;  //initializing a flag element    
     // Last i elements are already in place  
     for (j = 0; j < n-i-1; j++)  
     {
@@ -17,9 +18,13 @@ void bubbleSort(int arr[], int n)
             int temp = arr[j];
             arr[j] = arr[j+1];
             arr[j+1] = temp;
+            flag=1;  //the flag value will be changed only when swapping will take place in a pass
         }
     }
-    return;
+    if(flag==0)
+    break;  // this will ensure that if swapping did'nt take place outer loop will terminate, thus making the code efficient
+	}
+	return;
 }  
 
 //Driver Code
