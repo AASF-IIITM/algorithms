@@ -95,6 +95,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [QuickhullAlgoforConvexHull](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ConvexHull.cpp)
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DSU.cpp)
     * [HamiltonianPath](https://github.com/cjindal013/algorithms/blob/work/C%2B%2B/HamiltonianPath.cpp)
+    * [LongestIncreasingSubsequence](https://github.com/pranjali-99/algorithms/blob/work-1/C%2B%2B/LongestIncreasingSubsequence.cpp)
+    * [Combination](https://github.com/cjindal013/algorithms/blob/master/C%2B%2B/Combination.cpp)
 
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
@@ -126,7 +128,9 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [RadixSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/RadixSort.java)
     * [FenwickTree](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FenwickTree.java)
     * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/Java/KmpAlgorithm.java)
+    * [RabinKarp](https://github.com/AASF-IIITM/algorithms/blob/master/Java/RabinKarp.java)
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BellmanFord.java)
+    * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DisjointSetUnion.java)
 
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
@@ -157,6 +161,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Bucket%20Sort.py)
     * [Newton'sSquareRootAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Newton'ssquarerootalgorithm.py)
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BellmanFord.py)
+    * [LongestIncreasingSubsequence](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/LongestIncreasingSubsequence.py)
+    * [FenwickTree](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FenwickTree.py)
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
