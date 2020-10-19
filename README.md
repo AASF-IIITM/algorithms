@@ -134,6 +134,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/Java/KmpAlgorithm.java)
     * [RabinKarp](https://github.com/AASF-IIITM/algorithms/blob/master/Java/RabinKarp.java)
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BellmanFord.java)
+    * [Kosaraju]()https://github.com/AASF-IIITM/algorithms/blob/master/Java/Kosaraju.java)
+
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DisjointSetUnion.java)
 
 * Python3
