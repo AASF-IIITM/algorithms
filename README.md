@@ -94,7 +94,6 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BucketSort.cpp)
     * [QuickhullAlgoforConvexHull](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ConvexHull.cpp)
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DSU.cpp)
-    * [Combination](https://github.com/cjindal013/algorithms/blob/master/C%2B%2B/Combination.cpp)
 
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
