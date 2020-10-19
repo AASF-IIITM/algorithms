@@ -126,6 +126,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [FenwickTree](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FenwickTree.java)
     * [KmpAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/Java/KmpAlgorithm.java)
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BellmanFord.java)
+    * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DisjointSetUnion.java)
 
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
