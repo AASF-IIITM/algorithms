@@ -169,6 +169,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BellmanFord.py)
     * [LongestIncreasingSubsequence](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/LongestIncreasingSubsequence.py)
     * [FenwickTree](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FenwickTree.py)
+    * [Kosaraju](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Kosaraju%20.py)
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
