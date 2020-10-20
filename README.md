@@ -94,11 +94,11 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BucketSort.cpp)
     * [QuickhullAlgoforConvexHull](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ConvexHull.cpp)
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DSU.cpp)
-    * [BinaryExponentiation](https://github.com/pranjali-99/algorithms/blob/work-3/C%2B%2B/BinaryExponentiation.cpp)
+    * [BinaryExponentiation](https://github.com/AASF-IIITM/algorithms/blob/work-3/C%2B%2B/BinaryExponentiation.cpp)
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DisjointSetUnion.cpp)
     * [HamiltonianPath](https://github.com/cjindal013/algorithms/blob/work/C%2B%2B/HamiltonianPath.cpp)
     * [LongestIncreasingSubsequence](https://github.com/AASF-IIITM/algorithms/blob/work/C%2B%2B/LongestIncreasingSubsequence.cpp)
-    * [Combination](https://github.com/cjindal013/algorithms/blob/master/C%2B%2B/Combination.cpp)
+    * [Combination](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Combination.cpp)
     * [PrimsALgortihm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/PrimsAlgorithm.cpp)
     * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/LowestCommonAncestor.cpp)
     
