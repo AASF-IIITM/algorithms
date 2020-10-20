@@ -175,6 +175,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Kosaraju](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Kosaraju%20.py)
     * [Rabin-Karp](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Rabin-Karp.py)
     * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/home1/Python3/LowestCommonAncestor.py)
+    * [FCFS](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FCFS.py)
 
 
 * Javascript
