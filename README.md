@@ -99,6 +99,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [HamiltonianPath](https://github.com/cjindal013/algorithms/blob/work/C%2B%2B/HamiltonianPath.cpp)
     * [LongestIncreasingSubsequence](https://github.com/AASF-IIITM/algorithms/blob/work/C%2B%2B/LongestIncreasingSubsequence.cpp)
     * [Combination](https://github.com/cjindal013/algorithms/blob/master/C%2B%2B/Combination.cpp)
+    * [PainterPartition](https://github.com/anshika-00/algorithms/blob/master/C%2B%2B/PainterPartition.cpp)
 
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
