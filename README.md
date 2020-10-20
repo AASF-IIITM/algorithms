@@ -176,11 +176,11 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BinaryExponentiation](https://github.com/AASF-IIITM/algorithms/blob/work-4/Python3/BinaryExponentiation.py)
     * [LongestIncreasingSubsequence](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/LongestIncreasingSubsequence.py)
     * [FenwickTree](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FenwickTree.py)
+    * [PainterPartition](https://github.com/anshika-00/algorithms/blob/new1/Python3/PainterPartition.py)
     * [Kosaraju](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Kosaraju%20.py)
     * [Rabin-Karp](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Rabin-Karp.py)
     * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/home1/Python3/LowestCommonAncestor.py)
     * [FCFS](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FCFS.py)
-
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
