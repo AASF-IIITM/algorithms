@@ -183,6 +183,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Rabin-Karp](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Rabin-Karp.py)
     * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/home1/Python3/LowestCommonAncestor.py)
     * [FCFS](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FCFS.py)
+    * [KadaneAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/KadaneAlgo.py)
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
