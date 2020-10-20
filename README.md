@@ -94,20 +94,26 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BucketSort.cpp)
     * [QuickhullAlgoforConvexHull](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ConvexHull.cpp)
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DSU.cpp)
-    * [BinaryExponentiation](https://github.com/pranjali-99/algorithms/blob/work-3/C%2B%2B/BinaryExponentiation.cpp)
+    * [BinaryExponentiation](https://github.com/AASF-IIITM/algorithms/blob/work-3/C%2B%2B/BinaryExponentiation.cpp)
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/DisjointSetUnion.cpp)
     * [HamiltonianPath](https://github.com/cjindal013/algorithms/blob/work/C%2B%2B/HamiltonianPath.cpp)
     * [LongestIncreasingSubsequence](https://github.com/AASF-IIITM/algorithms/blob/work/C%2B%2B/LongestIncreasingSubsequence.cpp)
     * [Combination](https://github.com/cjindal013/algorithms/blob/master/C%2B%2B/Combination.cpp)
+    * [PainterPartition](https://github.com/anshika-00/algorithms/blob/master/C%2B%2B/PainterPartition.cpp)
+    * [GeneratePermutation](https://github.com/vaishali-00/algorithms/blob/home2/C%2B%2B/GeneratePermutation.cpp)
+    * [GenerateParenthesis](https://github.com/vaishali-00/algorithms/blob/home3/C%2B%2B/GenerateParenthesis.cpp)
+    * [Combination](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Combination.cpp)
     * [PrimsALgortihm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/PrimsAlgorithm.cpp)
     * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/LowestCommonAncestor.cpp)
-    
+
 * Java
+    * [BCD Counter](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BCDCounter.java)
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
     * [SieveOfEratosthenes](https://github.com/AASF-IIITM/algorithms/blob/master/Java/SieveofEratosthenes.java)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/SelectionSort.java)
     * [DoublyLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DoublyLinkedList.java)
+    * [Fibonacci Heap](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FibHeap.java)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HeapSort.java)
     * [TopologicalSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/TopologicalSort.java)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/InsertionSort.java)
@@ -137,6 +143,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Kosaraju](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Kosaraju.java)
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DisjointSetUnion.java)
     * [KadaneAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Java/KadaneAlgo.java)
+    * [PainterPartition](https://github.com/AASF-IIITM/algorithms/blob/new2/Java/PainterPartition.java)
+    * [FCFS](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FCFS.java)
 
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
@@ -170,10 +178,11 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BinaryExponentiation](https://github.com/AASF-IIITM/algorithms/blob/work-4/Python3/BinaryExponentiation.py)
     * [LongestIncreasingSubsequence](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/LongestIncreasingSubsequence.py)
     * [FenwickTree](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FenwickTree.py)
+    * [PainterPartition](https://github.com/anshika-00/algorithms/blob/new1/Python3/PainterPartition.py)
+    * [Kosaraju](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Kosaraju%20.py)
     * [Rabin-Karp](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Rabin-Karp.py)
     * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/home1/Python3/LowestCommonAncestor.py)
     * [FCFS](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FCFS.py)
-
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
