@@ -1,6 +1,5 @@
 d = 256
 
-
 def search(pat, txt, q):
 	M = len(pat)
 	N = len(txt)
@@ -10,11 +9,13 @@ def search(pat, txt, q):
 	t = 0 # hash value for txt
 	h = 1
 
-
+	
 	for i in xrange(M-1):
 		h = (h*d)%q
 
 
+	for i in xrange(M-1):
+		h = (h*d)%q
 	for i in xrange(M):
 		p = (d*p + ord(pat[i]))%q
 		t = (d*t + ord(txt[i]))%q
@@ -23,7 +24,7 @@ def search(pat, txt, q):
 	for i in xrange(N-M+1):
 		
 		if p==t:
-		
+
 			for j in xrange(M):
 				if txt[i+j] != pat[j]:
 					break
@@ -37,14 +38,12 @@ def search(pat, txt, q):
 		if i < N-M:
 			t = (d*(t-ord(txt[i])*h) + ord(txt[i+M]))%q
 
-			
 			if t < 0:
 				t = t+q
 
 
 txt = "GEEKS FOR GEEKS"
 pat = "GEEK"
-
 
 q = 101
 
