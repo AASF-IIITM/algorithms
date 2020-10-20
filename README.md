@@ -103,11 +103,13 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/LowestCommonAncestor.cpp)
     
 * Java
+    * [BCD Counter](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BCDCounter.java)
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
     * [SieveOfEratosthenes](https://github.com/AASF-IIITM/algorithms/blob/master/Java/SieveofEratosthenes.java)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/SelectionSort.java)
     * [DoublyLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DoublyLinkedList.java)
+    * [Fibonacci Heap](https://github.com/AASF-IIITM/algorithms/blob/master/Java/FibHeap.java)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/HeapSort.java)
     * [TopologicalSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/TopologicalSort.java)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/InsertionSort.java)
