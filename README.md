@@ -166,10 +166,12 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Bucket%20Sort.py)
     * [Newton'sSquareRootAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Newton'ssquarerootalgorithm.py)
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BellmanFord.py)
-    * [BinaryExponentiation](https://github.com/pranjali-99/algorithms/blob/work-4/Python3/BinaryExponentiation.py)
+    * [BinaryExponentiation](https://github.com/AASF-IIITM/algorithms/blob/work-4/Python3/BinaryExponentiation.py)
     * [LongestIncreasingSubsequence](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/LongestIncreasingSubsequence.py)
     * [FenwickTree](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FenwickTree.py)
-    * [LowestCommonAncestor](https://github.com/vaishali-00/algorithms/blob/home1/Python3/LowestCommonAncestor.py)
+    * [Rabin-Karp](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/Rabin-Karp.py)
+    * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/home1/Python3/LowestCommonAncestor.py)
+
 
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
