@@ -134,6 +134,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BellmanFord.java)
     * [Kosaraju](https://github.com/AASF-IIITM/algorithms/blob/master/Java/Kosaraju.java)
     * [DisjointSetUnion](https://github.com/AASF-IIITM/algorithms/blob/master/Java/DisjointSetUnion.java)
+    * [PainterPartition](https://github.com/anshika-00/algorithms/blob/new2/Java/PainterPartition.java)
 
 * Python3
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BubbleSort.py)
