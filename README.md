@@ -99,8 +99,9 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [HamiltonianPath](https://github.com/cjindal013/algorithms/blob/work/C%2B%2B/HamiltonianPath.cpp)
     * [LongestIncreasingSubsequence](https://github.com/AASF-IIITM/algorithms/blob/work/C%2B%2B/LongestIncreasingSubsequence.cpp)
     * [Combination](https://github.com/cjindal013/algorithms/blob/master/C%2B%2B/Combination.cpp)
-    * [LowestCommonAncestor](https://github.com/vaishali-00/algorithms/blob/master/C%2B%2B/LowestCommonAncestor.cpp)
-
+    * [PrimsALgortihm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/PrimsAlgorithm.cpp)
+    * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/LowestCommonAncestor.cpp)
+    
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BubbleSort.java)
