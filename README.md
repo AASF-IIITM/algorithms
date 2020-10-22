@@ -184,6 +184,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/LowestCommonAncestor.py)
     * [FCFS](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FCFS.py)
     * [KadaneAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/KadaneAlgo.py)
+    * [LongestCommonSubsequence](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/LongestCommonSubsequence.py)
     * [PalindromePartitioning](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/PalindromePartitioning.py)
 
 * Javascript
