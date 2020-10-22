@@ -50,7 +50,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [SieveOfEratosthenes](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SieveofEratosthenes.cpp)
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/MergeSort.cpp)
     * [CatalanNumbers/DyckPaths](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/CatalanNumberDyckPath.cpp)
-    * [kthSmallestElement](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/FindingkthSmallestElementInArray.cpp) 
+    * [kthSmallestElement](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/FindingkthSmallestElementInArray.cpp)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/InsertionSort.cpp)
     * [JumpSearch](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/JumpSearch.cpp)
     * [NewtonsSquareRootAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/NewtonSquareRootAlgorithm.cpp)
@@ -184,7 +184,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/LowestCommonAncestor.py)
     * [FCFS](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/FCFS.py)
     * [KadaneAlgo](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/KadaneAlgo.py)
-
+    * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Python3/BinarySearch.py)
 * Javascript
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/BubbleSort.js)
     * [InsertionSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/InsertionSort.js)
