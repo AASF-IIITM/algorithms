@@ -105,6 +105,11 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Combination](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Combination.cpp)
     * [PrimsALgortihm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/PrimsAlgorithm.cpp)
     * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/LowestCommonAncestor.cpp)
+    * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BellmanFord.cpp)
+    * [UnboundedKnapsack](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/UnboundedKnapsack.cpp)
+    * [MCM](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/MCM.cpp)
+    * [LPS](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/LPS.cpp)
+    
 
 * Java
     * [BCD Counter](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BCDCounter.java)
