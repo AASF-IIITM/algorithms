@@ -109,7 +109,8 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [UnboundedKnapsack](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/UnboundedKnapsack.cpp)
     * [MCM](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/MCM.cpp)
     * [LPS](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/LPS.cpp)
-    
+    * [Traveling Salesman Problem](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TravelingSalesmanProblem.cpp)
+
 
 * Java
     * [BCD Counter](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BCDCounter.java)
