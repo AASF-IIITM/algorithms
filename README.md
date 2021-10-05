@@ -217,6 +217,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [LinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/Go/linked_list.go)
     * [LevenshteinDistance](https://github.com/AASF-IIITM/algorithms/blob/master/Go/levenshtein_distance.go)
     * [GreatestCommonDivisor](https://github.com/AASF-IIITM/algorithms/blob/master/Go/gcd.go)
+    * [Heap Sort](https://github.com/AASF-IIITM/algorithms/blob/master/Go/heap_sort.go)
 
 * C
     * [StackUsingLinkedList](https://github.com/AASF-IIITM/algorithms/blob/master/C/StackUsingLinkedList.c)
