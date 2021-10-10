@@ -206,6 +206,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Dijkstra](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/Dijkstra.js)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/HeapSort.js)
     * [QuickSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/QuickSort.js)
+    * [BucketSort](https://github.com/AASF-IIITM/algorithms/blob/master/JavaScript/bucketSort.js)
 
 * Go
     * [Knapsack](https://github.com/AASF-IIITM/algorithms/blob/master/Go/knapsack.go)
