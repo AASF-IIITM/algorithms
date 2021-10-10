@@ -238,3 +238,4 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [TowerOfHanoi](https://github.com/AASF-IIITM/algorithms/blob/master/C/TowerOfHanoi.c)
     * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/C/MergeSort.c)
     * [Rabin-Karp](https://github.com/AASF-IIITM/algorithms/blob/master/C/Rabin-Karp.c)
+    * [PancakeSort](https://github.com/AASF-IIITM/algorithms/blob/master/C/PancakeSort.c)
