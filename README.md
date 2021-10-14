@@ -111,6 +111,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [BellmanFord](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BellmanFord.cpp)
     * [UnboundedKnapsack](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/UnboundedKnapsack.cpp)
     * [MCM](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/MCM.cpp)
+    * [MergeSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/MergeSort.cpp)
     * [LPS](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/LPS.cpp)
     * [Traveling Salesman Problem](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TravelingSalesmanProblem.cpp)
 
