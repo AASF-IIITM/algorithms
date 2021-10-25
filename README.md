@@ -45,6 +45,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [QueueUsingStack](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/QueueUsingStack.cpp)
     * [StackUsingQueue](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/StackUsingQueue.cpp)
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BinarySearch.cpp)
+    * [BiPartiteGraph](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BiPartiteGraph.cpp)
     * [SelectionSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SelectionSort.cpp)
     * [BubbleSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/BubbleSort.cpp)
     * [SieveOfEratosthenes](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/SieveofEratosthenes.cpp)
