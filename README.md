@@ -115,6 +115,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [MooreVotingAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/MooreVotingAlgorithm.cpp)
     * [LPS](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/LPS.cpp)
     * [Traveling Salesman Problem](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TravelingSalesmanProblem.cpp)
+    * [Trapping Rainwater Problem](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/TrappingRainwater.cpp)
 
 
 * Java
