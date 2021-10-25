@@ -85,6 +85,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [ManacherAlgorithm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/ManacherAlgorithm.cpp)
     * [HeapSort](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/HeapSort.cpp)
     * [RabinKarp](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/RabinKarp.cpp)
+    * [PerfectSquares](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/PerfectSquares.cpp)
     * [PrefixFunction](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/PrefixFunction.cpp)
     * [PrimeFactorizationInLogN](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/PrimeFactorizationInLogN.cpp)
     * [EulersTotientFunction](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/EulersTotientFunction.cpp)
